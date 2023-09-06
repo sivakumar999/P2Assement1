@@ -1,0 +1,15 @@
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\BLL.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\BLL.pdb
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\DAL.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\EntityFramework.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\DAL.pdb
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\DAL.dll.config
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\EntityFramework.xml
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\obj\Debug\BLL.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\obj\Debug\BLL.pdb
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\BLL.dll.config
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\EntityFramework.SqlServer.dll
+M:\Simplilearn\Projects\Phase-2\Assesment\EMS\BLL\bin\Debug\EntityFramework.SqlServer.xml
